@@ -49,6 +49,9 @@ export default {
             { plat:'Web',  icon: 'mdi-web'}]},
         {name: 'LemonPerfect', img: 'lemonperfect.png', platforms: [
             { plat:'Web',  icon: 'mdi-web'}]},
+        {name: 'Agilent', img: 'Agilent.png', platforms: [
+            { plat:'Web',  icon: 'mdi-web'},
+            { plat:'Desktop',  icon: 'mdi-desktop-classic'}]},          
         {name: 'Abby&Finn', img: 'abby.png', platforms: [
             { plat:'Web',  icon: 'mdi-web'}]},
         {name: 'Salesmessage', img: 'salesmsg.png',  platforms: [
