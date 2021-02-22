@@ -65,7 +65,7 @@
                                     <br>
                                     <pre>  <span class="duo-3">if</span> (<span class="uno-3">day</span> <span class="duo-3"> ===</span> "<span class="uno-3">off</span>"){</pre>
                                     <pre>    <span class="uno-3">me.</span><span class="uno-1">basketball()</span>;</pre>
-                                    <pre>    <span class="uno-3">me.</span><span class="uno-1">hiiking()</span>;</pre>
+                                    <pre>    <span class="uno-3">me.</span><span class="uno-1">hiking()</span>;</pre>
                                     <pre>    <span class="uno-3">me.</span><span class="uno-1">netflix()</span>;</pre>
                                     <pre>  }</pre>
                                     <pre>}</pre> ^1500
