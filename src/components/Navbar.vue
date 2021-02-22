@@ -23,13 +23,8 @@
       <v-btn icon href="#skills">
         <v-icon color="primary">mdi-laptop</v-icon>
       </v-btn>
-
-      <v-btn icon href="https://github.com/tariqp193" target="_blank">
-        <v-icon color="primary">mdi-github</v-icon>
-      </v-btn>
-
-      <v-btn icon v-on="on" @click="darkMode" >
-        <v-icon color="#ffbf00">wb_sunny</v-icon>
+      <v-btn icon v-on="on" @click="darkMode">
+        <v-icon color="#ffbf00"> {{ $vuetify.theme.dark ? 'wb_sunny' : 'mdi-moon-waning-crescent' }}</v-icon>
       </v-btn>
     </v-app-bar>
 </div>
